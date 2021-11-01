@@ -1,0 +1,23 @@
+#header{
+    background-color: darkgoldenrod;
+    height: 150px;
+    width: 100%;
+}
+#bmw{
+    background-image: url(bmwlogo.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 150px;
+    width: 100%;
+} 
+
+#header ul li{
+    list-style-type: none;
+    font-style: italic;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder; 
+    padding-left: 0px;
+    padding-top: 20px;
+    float: left; 
+}
